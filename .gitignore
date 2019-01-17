@@ -134,3 +134,10 @@ _NCrunch*
 
 # Other
 .vs/
+FriendOrganizer.UI/obj
+FriendOrganizer.UI/bin
+FriendOrganizer.DataAccess/obj
+FriendOrganizer.DataAccess/bin
+FriendOrganizer.Model/obj
+FriendOrganizer.Model/bin
+FriendOrganizer.UI/bin
